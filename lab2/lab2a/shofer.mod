@@ -1,0 +1,2 @@
+/media/sf_lab2/lab2a/shofer.o
+
